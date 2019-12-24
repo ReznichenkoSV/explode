@@ -1,0 +1,8 @@
+addons:
+  sonarcloud:
+    organization: "reznichenkosv"
+    token:
+      secure: "5bbc6f8902a6bdb022f6b5ec1c6e3e07def7754a"
+
+script:
+  - sonar-scanner
