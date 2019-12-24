@@ -1,5 +1,10 @@
 # explode
+
 Split a string by string
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ReznichenkoSV_explode&metric=alert_status)](https://sonarcloud.io/dashboard?id=ReznichenkoSV_explode)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ReznichenkoSV_explode&metric=code_smells)](https://sonarcloud.io/dashboard?id=ReznichenkoSV_explode)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ReznichenkoSV_explode&metric=bugs)](https://sonarcloud.io/dashboard?id=ReznichenkoSV_explode)
 
 ## Example 1
 
