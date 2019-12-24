@@ -124,9 +124,9 @@ create or replace type body explode is
   end;
 
  /**
-  * Return a broken string as sys_refcursor
+  * Return a broken string as ref cursor
   *
-  * @return sys_refcursor
+  * @return ref cursor
   */
   member function ref return ref cursor is
     l_RefCursor ref cursor;
