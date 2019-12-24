@@ -128,8 +128,8 @@ create or replace type body explode is
   *
   * @return sys_refcursor
   */
-  member function ref return sys_refcursor is
-    l_RefCursor sys_refcursor;
+  member function ref return ref cursor is
+    l_RefCursor ref cursor;
   begin
 
     open l_RefCursor for
